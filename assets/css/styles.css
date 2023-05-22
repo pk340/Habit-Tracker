@@ -5,13 +5,13 @@
 }
 
 body {
-    /* background: #a2ff56; */
-    background:  #23B2EE;
+    
+    background:  #40b6e9; 
     overflow-y: auto;
 }
 
 .habit-container {
-    color         : white;
+    color         : rgb(253, 253, 253);
     position      : absolute;
     top           : 350px;
     left          : 50%;
@@ -32,7 +32,7 @@ body {
 
 .habit-container h2 {
     padding    : 10px;
-    font-family: 'Candal', sans-serif;
+    font-family: 'Arial', sans-serif;
     font-size  : 2em;
 }
 
@@ -41,7 +41,7 @@ body {
     border       : none;
     border-radius: 5px;
     height       : 40px;
-    font-family  : 'Candal', sans-serif;
+    font-family  : 'Arial', sans-serif;
 }
 
 .habit-header .add-btn {
@@ -50,7 +50,7 @@ body {
     border-radius   : 50%;
     cursor          : pointer;
     padding         : 8px 13px;
-    font-family     : 'Candal', sans-serif;
+    font-family     : 'Arial', sans-serif;
     background-color: rgb(51, 212, 100);
 }
 
@@ -63,7 +63,7 @@ body {
     margin-top    : 10px;
     border        : none;
     border-radius : 5px;
-    font-family   : 'Candal', sans-serif;
+    font-family   : 'Arial', sans-serif;
     background    : rgba(0, 0, 0, 0.33);
     display       : flex;
     flex-direction: row;
@@ -79,7 +79,7 @@ body {
     margin-right : 20px;
     border       : none;
     border-radius: 5px;
-    font-family  : 'Candal', sans-serif;
+    font-family  : 'Arial', sans-serif;
 }
 
 .habit-list-item button {
@@ -88,7 +88,7 @@ body {
     border-radius   : 5px;
     cursor          : pointer;
     padding         : 5px;
-    font-family     : 'Candal', sans-serif;
+    font-family     : 'Arial', sans-serif;
     background-color: rgb(51, 212, 100);
 }
 
@@ -99,7 +99,7 @@ body {
     border-radius   : 5px;
     cursor          : pointer;
     padding         : 5px;
-    font-family     : 'Candal', sans-serif;
+    font-family     : 'Arial', sans-serif;
     background-color: #E53C37;
     margin-left     : 5px;
 }
@@ -108,7 +108,7 @@ body {
     color          : white;
     text-decoration: none;
     cursor         : pointer;
-    font-family    : 'Candal', sans-serif;
+    font-family    : 'Arial', sans-serif;
     color          : gold;
     margin-right   : 10px;
     margin-top     : 2.5px;
